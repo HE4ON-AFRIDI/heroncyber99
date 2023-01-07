@@ -32,20 +32,6 @@ WELCOME TO HERON PROFILE
 
 - ![Alt text](https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)
 
-PROGRAMMING LANGUAGE :
-
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ### VEDIO
 
@@ -84,3 +70,22 @@ https://m.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN
 
 
 ![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d724861636b65722d58266c61796f75743d636f6d70616374267468656d653d72656163742668696465](https://user-images.githubusercontent.com/114340674/211162632-6da351d4-e30d-41a3-9c6a-1294c7fa6949.svg)
+
+PROGRAMMING LANGUAGE :
+
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+
+
+
+
