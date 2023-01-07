@@ -46,13 +46,7 @@ https://user-images.githubusercontent.com/114340674/210162918-361aed46-c9f5-40c2
 
 ![320662817_2983679695271222_6657505359134751481_n](https://user-images.githubusercontent.com/114340674/211160698-854c07b1-1b9d-477f-8357-f58840f103cd.jpg)
 
-### FB ID
 
-
-![result (5)](https://user-images.githubusercontent.com/114340674/211162066-497c8490-98ae-4ce2-b06d-df2276efc723.gif)
-
-
-https://m.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN
 
 
 
@@ -70,6 +64,17 @@ https://m.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN
 
 
 ![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d724861636b65722d58266c61796f75743d636f6d70616374267468656d653d72656163742668696465](https://user-images.githubusercontent.com/114340674/211162632-6da351d4-e30d-41a3-9c6a-1294c7fa6949.svg)
+
+### FB ID
+
+
+![result (5)](https://user-images.githubusercontent.com/114340674/211162066-497c8490-98ae-4ce2-b06d-df2276efc723.gif)
+
+
+https://m.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN
+
+
+
 
 PROGRAMMING LANGUAGE :
 
