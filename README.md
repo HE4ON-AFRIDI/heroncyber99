@@ -62,8 +62,8 @@ https://user-images.githubusercontent.com/114340674/210162918-361aed46-c9f5-40c2
 
 ### FB ID
 
+![image](https://user-images.githubusercontent.com/114340674/211161251-c4c8116a-5c4c-469d-968d-c8904d5cb0b0.png)
 
-https://www![9240233_facebook-logo-png-logo-fb-instagram-png-transparent](https://user-images.githubusercontent.com/114340674/211161224-74e69b15-6651-473b-91fe-da6c1d4350d2.png)
-.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN
+
 
 
