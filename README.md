@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 ![result (1)](https://user-images.githubusercontent.com/114340674/211160064-717904b8-135a-4dd6-ab67-ecc1d3e2b3ae.gif)
 
 
@@ -66,10 +59,6 @@ https://user-images.githubusercontent.com/114340674/210162918-361aed46-c9f5-40c2
 
 
 
-
-
-
-
-![324354181_593408202611393_7463378998898783721_n](https://user-images.githubusercontent.com/114340674/211160385-7084970c-d86e-4514-8ff4-65549218c8a3.jpg)
+https://www.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN
 
 
